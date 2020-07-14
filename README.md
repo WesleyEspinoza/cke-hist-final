@@ -35,7 +35,7 @@ This web app will be dedicated to the struggles US woman had overcome by sharing
 | Role | Name | Github |
 | ------ | ------ | ------ |
 | Components | Name Here | Link to github profile|
-| Research | Name Here | Link to github profile|
+| Research | Henry Bowe | https://github.com/hleejr |
 | Front end| Name Here | Link to github profile|
 | The help | Name Here | Link to github profile|
 
