@@ -1,3 +1,57 @@
+# Woman's History major turning point
+## UnTitled
+
+This web app will be dedicated to the struggles US woman had overcome by sharing the major turning points and what lead up to it in an elegant and beautiful way.
+
+
+# Planned Features!
+✅ **Completed**  ⬜ **Not complete**
+
+----------------------------------------------
+ 
+✅ **Start project repo**
+
+✅ **Invite Collaborator**
+
+⬜ **Assign Roles**
+
+⬜ **Main Layout Discussed**
+
+⬜ **WireFrames**
+
+⬜ **Main Componets**
+
+⬜ **Research Done**
+
+⬜ **Graphics**
+
+⬜ **Bug Fixing**
+
+⬜ **Etras**
+
+⬜ **Deploy**
+ 
+ ## current developers
+| Role | Name | Github |
+| ------ | ------ | ------ |
+| Components | Name Here | Link to github profile|
+| Research | Name Here | Link to github profile|
+| Front end| Name Here | Link to github profile|
+| The help | Name Here | Link to github profile|
+
+**Components**
+Components role will be reponsible for creating the components needed for the entire project. That includes making sure the componets all work well together and can be implemented by the front end role. `requires a decent understanding of react and its component system`
+
+**Research**
+The research role will handle all of the research we will need for the project. This include getting a list of at least 4 Major historical events. If just 4 make sure they are the ones with the biggest impact. A deep dive into all of them, you will make sure all of the events are neatly oraginized in a Doc and in choronolical order for easy implemetation. If done early you can be moved to The help role(see below) `requires great levels of detail and orientation`
+
+**Front end**
+The front end role will take charge of the asthetic of the page making sure everything looks nice, you will be working closely with research and component roles. You are incharge of the Wireframe before the component can start their works, but all roles are expected to take part in the wireframe design. `requires an understanding of front end and a keen eye for what looks good.`
+
+**The help**
+The help's role is to help anyone that is falling behind making sure we finish the project on time. You will start with helping the front end with wireframes, once wireframes are done move over to the research, from there if any other role requests your assistance it will be cricual you help. `requires a little bit of everything`
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
