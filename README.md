@@ -34,7 +34,7 @@ This web app will be dedicated to the struggles US woman had overcome by sharing
  ## current developers
 | Role | Name | Github |
 | ------ | ------ | ------ |
-| Components | Name Here | Link to github profile|
+| Components | Name Here | https://github.com/Austrie/|
 | Research | Henry Bowe | https://github.com/hleejr |
 | Front end| Name Here | Link to github profile|
 | The help | Name Here | Link to github profile|
