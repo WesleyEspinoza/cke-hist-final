@@ -13,7 +13,7 @@ This web app will be dedicated to the struggles US woman had overcome by sharing
 
 ✅ **Invite Collaborator**
 
-⬜ **Assign Roles**
+✅ **Assign Roles**
 
 ⬜ **Main Layout Discussed**
 
@@ -34,10 +34,10 @@ This web app will be dedicated to the struggles US woman had overcome by sharing
  ## current developers
 | Role | Name | Github |
 | ------ | ------ | ------ |
-| Components | Name Here | https://github.com/Austrie/|
+| Components | Shane Austrie | https://github.com/Austrie/ |
 | Research | Henry Bowe | https://github.com/hleejr |
-| Front end| Name Here | Link to github profile|
-| The help | Name Here | Link to github profile|
+| Front end| Erick W Espinoza | https://github.com/WesleyEspinoza |
+| The help | Maximo Hinojosa | https://github.com/mhinojosa24 |
 
 **Components**
 Components role will be reponsible for creating the components needed for the entire project. That includes making sure the componets all work well together and can be implemented by the front end role. `requires a decent understanding of react and its component system`
