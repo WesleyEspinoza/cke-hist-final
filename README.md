@@ -3,6 +3,7 @@
 
 This web app will be dedicated to the struggles US woman had overcome by sharing the major turning points and what lead up to it in an elegant and beautiful way.
 
+**Figma Design Link** [Figma](https://www.figma.com/file/F95bZ5n4IAY29maswa5SUZ/Untitled?node-id=0%3A1)
 
 # Planned Features!
 ✅ **Completed**  ⬜ **Not complete**
