@@ -43,7 +43,7 @@ This web app will be dedicated to the struggles US woman had overcome by sharing
 **Components**
 Components role will be reponsible for creating the components needed for the entire project. That includes making sure the componets all work well together and can be implemented by the front end role. `requires a decent understanding of react and its component system`
 
-**Research**
+**Research** *Document of all compiled research: [Docs](https://docs.google.com/document/d/1i6V86Cm12YB32jymnxT9eqdVQBDbn7z6xlkZbePHCRw/edit?usp=sharing)*
 The research role will handle all of the research we will need for the project. This include getting a list of at least 4 Major historical events. If just 4 make sure they are the ones with the biggest impact. A deep dive into all of them, you will make sure all of the events are neatly oraginized in a Doc and in choronolical order for easy implemetation. If done early you can be moved to The help role(see below) `requires great levels of detail and orientation`
 
 **Front end**
