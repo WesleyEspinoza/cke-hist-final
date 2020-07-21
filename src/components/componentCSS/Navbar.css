@@ -1,0 +1,8 @@
+.rowC{
+    display: inline-flex; 
+    flex-direction:row;
+    width: 700px;
+    float: top;
+    justify-content: space-between;
+    padding: 10px 0;
+}

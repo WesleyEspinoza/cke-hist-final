@@ -16,7 +16,7 @@ This web app will be dedicated to the struggles US woman had overcome by sharing
 
 ✅ **Assign Roles**
 
-⬜ **Main Layout Discussed**
+✅ **Main Layout Discussed**
 
 ⬜ **WireFrames**
 
@@ -45,6 +45,7 @@ Components role will be reponsible for creating the components needed for the en
 
 | Componet | completed | comments |
 | ------ | ------ | ------ |
+| Navbar | ✅ | 🚫 |
 | Picture carousel | ⬜ | 🚫 |
 | Event componet | ⬜ | 🚫 |
 | Navigation bar | ⬜ | 🚫 |
