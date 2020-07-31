@@ -4,7 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 import NavBar from "./components/navbar";
-import InfiniteScroll from 'react-infinite-scroll-component';
 
 
 ReactDOM.render(

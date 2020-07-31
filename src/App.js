@@ -1,7 +1,7 @@
 import React from 'react';
 import logo from './logo.svg';
 import './css/App.css'
-
+import NavBar from "./components/navbar";
 import { render } from "react-dom";
 import InfiniteScroll from "react-infinite-scroll-component";
 
@@ -11,7 +11,9 @@ const style = {
   margin: 15,
   padding: "25%",
   backgroundColor: "black",
-  color: "white"
+  color: "white",
+  textAlign: "left",
+  
 };
 
 class App extends React.Component {
@@ -37,23 +39,19 @@ class App extends React.Component {
   render() {
     return (
       <div>
-        <h1>demo: react-infinite-scroll-component</h1>
         <hr />
         <InfiniteScroll
           dataLength={this.state.items.length}
           next={this.fetchMoreData}
           hasMore={this.state.hasMore}
           loader={<h4>Loading...</h4>}
-          endMessage={
-            <p style={{ textAlign: "center" }}>
-              <b>Yay! You have seen it all</b>
-            </p>
-          }
-        
           >
           {this.state.items.map((i, index) => (
             <div style={style} key={index}>
-              div - #{index}
+              <div className="left-side ">
+                div - #{index}
+              </div>
+              
             </div>
           ))}
         </InfiniteScroll>
