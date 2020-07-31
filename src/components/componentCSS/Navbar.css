@@ -1,8 +1,21 @@
 .rowC{
     display: inline-flex; 
     flex-direction:row;
-    width: 700px;
+    width: 100%;
     float: top;
     justify-content: space-between;
-    padding: 10px 0;
+    background-color: rgba(0, 0, 0, 0);
+    padding-bottom: 25px;
+    
+}
+.container{
+    position: absolute;
+}
+
+.navItem{
+    padding-right: 15px;
+}
+
+a{
+    color: whitesmoke;
 }
