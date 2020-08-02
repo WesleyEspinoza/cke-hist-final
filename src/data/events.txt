@@ -1,0 +1,8 @@
+{{START_EVENT}}
+Event Name
+Event Details
+{{END_EVENT}}
+{{START_EVENT}}
+Event Name
+Event Details
+{{END_EVENT}}
