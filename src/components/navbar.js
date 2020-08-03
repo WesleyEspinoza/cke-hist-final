@@ -15,18 +15,32 @@ class NavBar extends Component {
     super(props)
   }
 
+  componentDidMount(){
+  }
+
   createEvents = () => {
     const result = Array(this.props.numberOfEvents)
-    for (let i = 0; i < result.length; i++) {
-      result[i] = (
-        <NavDropdown.Item
-          onClick={() => this.props.changeEvent(i)}
-        >
-          {"Event " + String(i + 1)}
-        </NavDropdown.Item>
-      )
-    }
-    return result
+    // Create obj
+    const obj = ["Seneca Falls Convention", 
+                "Declaration of Sentiments", 
+                "Equal Pay Act",
+                "Margaret Sanger",
+                "National Organization for Women",
+                "Pressure Is a Privilege"]
+
+    // map obj
+    return (
+      obj.map((event, index) => {
+        return (
+          <NavDropdown.Item
+            onClick={() => this.props.changeEvent(index)}
+          >
+            {event}
+          </NavDropdown.Item>
+        )
+      })
+    )
+    
   } 
 
   render() {
